@@ -1,0 +1,1 @@
+CRUD operations refer to Create, Read, Update, and Delete operations performed on data in a database or data repository. These operations allow users to interact with data, including adding new records (Create), retrieving existing records (Read), modifying records (Update), and removing records (Delete).
